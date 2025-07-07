@@ -12,5 +12,7 @@ The project simulates a small e-commerce database with customers, products, orde
 ## 🛠️ Technologies Used
 - MySQL / SQL
 - MySQL Workbench (or any SQL IDE)
-Author: POOJITHA M
-DATE:7-7-25
+
+- 
+## Author: POOJITHA M
+## DATE:7-7-25
